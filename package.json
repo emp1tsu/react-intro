@@ -1,0 +1,22 @@
+{
+  "name": "react-intro",
+  "version": "1.0.0",
+  "description": "An app to teach you to write React",
+  "main": "src/App.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "dev": "parcel src/index.html"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "parcel-bundler": "^1.12.3",
+    "prettier": "^1.14.2"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
