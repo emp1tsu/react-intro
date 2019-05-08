@@ -6,7 +6,7 @@
 * eslint-plugin-react
   * reactサポート
 
-#＃ eslintrc
+## eslintrc
 
 ここ参照 https://qiita.com/mysticatea/items/f523dab04a25f617c87d#-%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A%E3%82%92%E3%81%99%E3%82%8B 
 
